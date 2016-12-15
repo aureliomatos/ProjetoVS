@@ -36,7 +36,7 @@ namespace Treinamento
             UmAluno.Professor = "Cleivaldo";
 
             MessageBox.Show("Aluno Aprovado com media: " + UmAluno.Nota);
-            MessageBox.Show("Aluno Aprovado com media: " + UmAluno.Nota);
+
             
         }
     }
