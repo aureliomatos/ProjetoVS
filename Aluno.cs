@@ -15,5 +15,7 @@ namespace Treinamento
         public string Professor;
 
         public string Materia;
+
+        public string teste;
     }
 }
