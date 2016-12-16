@@ -37,7 +37,7 @@ namespace Treinamento
 
             MessageBox.Show("Aluno Aprovado com media: " + UmAluno.Nota);
             teste;
-
+          
             
         }
     }
